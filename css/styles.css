@@ -1,0 +1,31 @@
+/**************************************TAG SELECTORS*************************/
+
+body{background-color:#B0E0E6;}
+
+ hr{border-style: none;
+    border-color: blue;
+    background-color:BLUE;
+    height: 1PX;
+    width: 100%;}
+    img:hover{
+      height: 150px;
+    }
+
+
+img{ height: 300px;
+    border-radius: 15%
+}
+
+
+h1{color: blue;}
+h3{color: blue;}
+li{color: blue;}
+p{color:black;}
+p{ font-variant: small-caps; }
+/**************************************CLASS SELECTORS*************************/
+.aot{
+  height: 350px;
+}
+.aot{
+  border-radius: 10%;
+}
